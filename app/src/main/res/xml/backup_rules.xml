@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Android 8 to 11 can't tell cloud backups from device transfers, so the windows and fasts stay out of both. -->
+<full-backup-content>
+    <exclude domain="sharedpref" path="." />
+</full-backup-content>

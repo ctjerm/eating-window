@@ -1,0 +1,18 @@
+Eating Window is a timer for 16:8 intermittent fasting. Tap when you take your first bite. You get an 8-hour eating window, then the app follows the 16-hour fast after it, which is the part that counts.
+
+<ul>
+<li><b>Eating window.</b> A ring counts down 8 hours. "Last call" comes at 7 hours and "Kitchen's closed" at 8.</li>
+<li><b>Fast.</b> A silent live countdown sits in the notification shade, and "Fast complete" arrives at 16 hours with a Start now button.</li>
+<li><b>What your body is doing.</b> A short note for each stage of the fast, limited to what human studies show.</li>
+<li><b>Streak of completed fasts.</b> A fast counts once it reaches 16 hours. Starting a window early asks first.</li>
+<li><b>Corrections.</b> Set the time you really started, end a window early, or log a late snack, which restarts the fast from then.</li>
+<li><b>Daily start nudge.</b> An optional reminder at your usual start time.</li>
+<li><b>Quick Settings tile.</b> Shows when the window or fast ends. Once the fast is done, a tap starts the next window.</li>
+<li><b>History.</b> The past week and your recent fasts.</li>
+</ul>
+
+There is no account, no ads and no internet permission. Your windows and fasts stay on your phone.
+
+Reminders use Android's alarm clock, so they arrive on time even on phones that delay ordinary alarms. The cost is an alarm icon in the status bar.
+
+This app is not medical advice. If you are pregnant, have diabetes, or have a history of eating disorders, check with a doctor before fasting.

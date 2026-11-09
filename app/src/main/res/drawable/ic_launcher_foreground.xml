@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- A ring for the 8-hour window: amber for eating, a coral segment for the last hour. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:pathData="M60.06,32.85 A22,22 0 1,1 33.33,46.48"
+        android:strokeWidth="7"
+        android:strokeColor="#F2B35B"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M41.07,36.2 A22,22 0 0,1 46.48,33.33"
+        android:strokeWidth="7"
+        android:strokeColor="#FF7A59"
+        android:strokeLineCap="round" />
+</vector>
